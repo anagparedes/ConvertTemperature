@@ -6,7 +6,7 @@ namespace TemperatureConverter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var temperature = new Temperature(5.25, TemperatureScale.Celsius);
         }
     }
 }
