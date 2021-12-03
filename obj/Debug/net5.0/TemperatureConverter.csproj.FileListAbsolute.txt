@@ -1,0 +1,16 @@
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.exe
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.deps.json
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.runtimeconfig.json
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.runtimeconfig.dev.json
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\ref\TemperatureConverter.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\bin\Debug\net5.0\TemperatureConverter.pdb
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.AssemblyInfo.cs
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\ref\TemperatureConverter.dll
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.pdb
+C:\Users\Ana\Documents\Tareas de universidad\Trimestre 14\Lab Tendencias en Desarrollo de Aplicaciones\TemperatureConverter\TemperatureConverter\obj\Debug\net5.0\TemperatureConverter.genruntimeconfig.cache
