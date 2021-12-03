@@ -27,19 +27,19 @@ namespace TemperatureConverter
     }
     public class Fahrenheit : Temperature
     {
-        public Fahrenheit(int input, TemperatureScale temperature) : base(input, temperature) { }
+        public Fahrenheit(double input, TemperatureScale temperature) : base(input, temperature) { }
 
         public double ConvertToCelsius()
         {
             Console.WriteLine("Fahrenheit to Celsius conversion");
-            int result = (5 * (this.degrees - 32) / 9);
+            double result = (5 * (this.degrees - 32) / 9);
             return result;
         }
         public double ConvertToKelvin()
         {
 
-            Console.WriteLine("Fahrenheit to Celsius conversion");
-            int result = (5 * (this.degrees - 32) / 9);
+            Console.WriteLine("Fahrenheit to Kelvin conversion");
+            double result = (5 * (this.degrees * 32) - 32) / 9 + 273.15);
             return result;
         }
     }
@@ -47,35 +47,35 @@ namespace TemperatureConverter
 
     public class Kelvin : Temperature
     {
-        public Kelvin(int input, TemperatureScale temperature) : base(input, temperature) { }
+        public Kelvin(double input, TemperatureScale temperature) : base(input, temperature) { }
         public double ConvertToFarenheit()
         {
             Console.WriteLine("Kelvin to Farenheit conversion");
-            int result = (this.degrees − 273.15)× 9)/5 + 32);
+            double result = (((this.degrees−273.15)*9)5+32);
             return result;
         }
-        public decimal ConvertToCelcius()
+        public double ConvertToCelcius()
         {
             Console.WriteLine("Kelvin to Celsius conversion");
-            decimal result = (this.degrees−273.15); 
+            double result = this.degrees−273.15;
             return result;
         }
     }
 
     public class Celsius : Temperature
     {
-        public Celsius(int input, TemperatureScale temperature) : base(input, temperature) { }
+        public Celsius(double input, TemperatureScale temperature) : base(input, temperature) { }
 
         public double ConvertToFarenheit()
         {
             Console.WriteLine("Celcius to Fahrenheit conversion");
-            int result = ((this.degrees * 9) / 5) + 32;
+            double result = ((this.degrees * 9) / 5) + 32;
             return result;
         }
         public double ConvertToKelvin()
         {
             Console.WriteLine("Celcius to Fahrenheit conversion");
-            int result = ((this.degrees * 9) / 5) + 32;
+            double result = ((this.degrees * 9) / 5) + 32;
             return result;
         }
     }
