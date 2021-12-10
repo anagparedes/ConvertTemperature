@@ -39,7 +39,7 @@ namespace TemperatureConverter
         {
 
             Console.WriteLine("Fahrenheit to Kelvin conversion");
-            double result = (5 * (this.degrees * 32) - 32) / 9 + 273.15);
+            double result = (5 * (this.degrees * 32) - 32) / 9 + 273.15;
             return result;
         }
     }
@@ -51,13 +51,13 @@ namespace TemperatureConverter
         public double ConvertToFarenheit()
         {
             Console.WriteLine("Kelvin to Farenheit conversion");
-            double result = (((this.degrees−273.15)*9)5+32);
+            double result = (1.8 * (this.degrees - 273) + 32);
             return result;
         }
         public double ConvertToCelcius()
         {
             Console.WriteLine("Kelvin to Celsius conversion");
-            double result = this.degrees−273.15;
+            double result = this.degrees - 273;
             return result;
         }
     }
@@ -69,13 +69,13 @@ namespace TemperatureConverter
         public double ConvertToFarenheit()
         {
             Console.WriteLine("Celcius to Fahrenheit conversion");
-            double result = ((this.degrees * 9) / 5) + 32;
+            double result =((this.degrees * 9) / 5)+32;
             return result;
         }
         public double ConvertToKelvin()
         {
-            Console.WriteLine("Celcius to Fahrenheit conversion");
-            double result = ((this.degrees * 9) / 5) + 32;
+            Console.WriteLine("Celcius to Kelvin conversion");
+            double result = this.degrees + 273;
             return result;
         }
     }
